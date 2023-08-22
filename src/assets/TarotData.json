@@ -1,0 +1,311 @@
+{
+    "decks": [
+      {
+        "name": "Major Arcana",
+        "cards": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+      },
+      {
+        "name": "Minor Arcana",
+        "cards": []
+      },
+      {
+        "name": "Full Standard Deck",
+        "cards": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+      }
+    ],
+    "layouts": [
+      {
+        "name": "Layout 1",
+        "cardAmount": 3
+      }
+    ],
+    "cards": [
+      {
+        "name": "The Fool",
+        "id": 0,
+        "image": "the_fool.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for The Fool Upright",
+            "descriptionReversed": "Description for The Fool Reversed"
+          }
+        ]
+      },
+      {
+        "name": "The Magician",
+        "id": 1,
+        "image": "the_magician.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for The Magician Upright",
+            "descriptionReversed": "Description for The Magician Reversed"
+          }
+        ]
+      },
+      {
+        "name": "The High Priestess",
+        "id": 2,
+        "image": "the_high_priestess.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for The High Priestess Upright",
+            "descriptionReversed": "Description for The High Priestess Reversed"
+          }
+        ]
+      },
+      {
+        "name": "The Empress",
+        "id": 3,
+        "image": "the_empress.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for The Empress Upright",
+            "descriptionReversed": "Description for The Empress Reversed"
+          }
+        ]
+      },
+      {
+        "name": "The Emperor",
+        "id": 4,
+        "image": "the_emperor.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for The Emperor Upright",
+            "descriptionReversed": "Description for The Emperor Reversed"
+          }
+        ]
+      },
+      {
+        "name": "The Hierophant",
+        "id": 5,
+        "image": "the_hierophant.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for The Hierophant Upright",
+            "descriptionReversed": "Description for The Hierophant Reversed"
+          }
+        ]
+      },
+      {
+        "name": "The Lovers",
+        "id": 6,
+        "image": "the_lovers.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for The Lovers Upright",
+            "descriptionReversed": "Description for The Lovers Reversed"
+          }
+        ]
+      },
+      {
+        "name": "The Chariot",
+        "id": 7,
+        "image": "the_chariot.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for The Chariot Upright",
+            "descriptionReversed": "Description for The Chariot Reversed"
+          }
+        ]
+      },
+      {
+        "name": "Strength",
+        "id": 8,
+        "image": "strength.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for Strength Upright",
+            "descriptionReversed": "Description for Strength Reversed"
+          }
+        ]
+      },
+      {
+        "name": "The Hermit",
+        "id": 9,
+        "image": "the_hermit.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for The Hermit Upright",
+            "descriptionReversed": "Description for The Hermit Reversed"
+          }
+        ]
+      },
+      {
+        "name": "Wheel of Fortune",
+        "id": 10,
+        "image": "wheel_of_fortune.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for Wheel of Fortune Upright",
+            "descriptionReversed": "Description for Wheel of Fortune Reversed"
+          }
+        ]
+      },
+      {
+        "name": "Justice",
+        "id": 11,
+        "image": "justice.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for Justice Upright",
+            "descriptionReversed": "Description for Justice Reversed"
+          }
+        ]
+      },
+      {
+        "name": "The Hanged Man",
+        "id": 12,
+        "image": "the_hanged_man.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for The Hanged Man Upright",
+            "descriptionReversed": "Description for The Hanged Man Reversed"
+          }
+        ]
+      },
+      {
+        "name": "Death",
+        "id": 13,
+        "image": "death.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for Death Upright",
+            "descriptionReversed": "Description for Death Reversed"
+          }
+        ]
+      },
+      {
+        "name": "Temperance",
+        "id": 14,
+        "image": "temperance.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for Temperance Upright",
+            "descriptionReversed": "Description for Temperance Reversed"
+          }
+        ]
+      },
+      {
+        "name": "The Devil",
+        "id": 15,
+        "image": "the_devil.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for The Devil Upright",
+            "descriptionReversed": "Description for The Devil Reversed"
+          }
+        ]
+      },
+      {
+        "name": "The Tower",
+        "id": 16,
+        "image": "the_tower.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for The Tower Upright",
+            "descriptionReversed": "Description for The Tower Reversed"
+          }
+        ]
+      },
+      {
+        "name": "The Star",
+        "id": 17,
+        "image": "the_star.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for The Star Upright",
+            "descriptionReversed": "Description for The Star Reversed"
+          }
+        ]
+      },
+      {
+        "name": "The Moon",
+        "id": 18,
+        "image": "the_moon.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for The Moon Upright",
+            "descriptionReversed": "Description for The Moon Reversed"
+          }
+        ]
+      },
+      {
+        "name": "The Sun",
+        "id": 19,
+        "image": "the_sun.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for The Sun Upright",
+            "descriptionReversed": "Description for The Sun Reversed"
+          }
+        ]
+      },
+      {
+        "name": "Judgement",
+        "id": 20,
+        "image": "judgement.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for Judgement Upright",
+            "descriptionReversed": "Description for Judgement Reversed"
+          }
+        ]
+      },
+      {
+        "name": "The World",
+        "id": 21,
+        "image": "the_world.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Layout 1",
+            "position": 0,
+            "descriptionUpright": "Description for The World Upright",
+            "descriptionReversed": "Description for The World Reversed"
+          }
+        ]
+      }
+    ]
+  }
+  

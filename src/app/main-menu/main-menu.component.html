@@ -1,0 +1,23 @@
+<div class ="background">
+    <div class ="main-menu" [@fadeInOut]>
+        <h1>Welcome!</h1>
+
+        <p>Please select a deck and a layout then click start.</p>
+
+            <select class="dropdown" [(ngModel)]="selectedDeck" (change)="onDeckSelect(selectedDeck)">
+                <option *ngFor="let deck of decks" [value]="deck">
+                {{ deck }}
+                </option>
+            </select>   
+
+            <select class="dropdown" [(ngModel)]="selectedLayout" (change)="onLayoutSelect(selectedLayout)">
+                <option *ngFor="let layout of layouts" [value]="layout">
+                {{ layout }}
+                </option>
+            </select>   
+
+
+        <button (click)="moveToCardSelection()">Go to Card Selection</button>
+
+    </div>
+</div>
