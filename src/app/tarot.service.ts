@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { Subject } from 'rxjs';
-import { interfaces } from '.../shared-scripts/interfaces';
+import { Card, Deck, Layout } from './shared-scripts/interfaces';
 
 @Injectable({  providedIn: 'root'  })
 
@@ -15,8 +15,8 @@ export class TarotService
   potentialLayouts: Layout[] = [];
   cards: Card[] = [];
 
-  selectedDeck: Deck | undefined;
-  selectedLayout: Layout | undefined;
+  selectedDeck: Deck = this.potentialDecks[0];
+  selectedLayout: Layout = this.potentialLayouts[0];
   selectedCards: Card[] = [];
 
 
@@ -35,6 +35,21 @@ export class TarotService
 
   private loadData(): Observable<any> {
     return this.http.get('/assets/TarotData.json');
+  }
+
+  selectCards(selectedIndices: number[]): boolean
+  {
+
+    if (selectedIndices.length === this.selectedLayout.cardAmount)
+    {
+      this.selectedCards = selectedIndices.map(index => this.cards.find(card => card.id === index)).filter((card): card is Card => card !== undefined);
+      return true;
+    }
+    else
+    {
+      return false;
+    }
+
   }
 
 
@@ -68,9 +83,18 @@ export class TarotService
     return this.cards.filter(card => deck.cards.includes(card.id));
   } 
 
-  setSelectedDeckByName(deck: String): void 
+  setSelectedDeckByName(deck: String): boolean 
   {
-    this.selectedDeck = this.potentialDecks.find(d => d.name === deck);
+    const foundDeck = this.potentialDecks.find(d => d.name === deck);
+    if (foundDeck) 
+    {
+      this.selectedDeck = foundDeck;
+      return true;
+    } 
+    else 
+    {
+      return false;
+    }
   }
   
   setSelectedDeck(deck: Deck): void 
@@ -83,9 +107,18 @@ export class TarotService
     this.selectedLayout = layout;
   }
 
-  setSelectedLayoutByName(layout: String): void
+  setSelectedLayoutByName(layout: String): boolean
   {
-    this.selectedLayout = this.potentialLayouts.find(l => l.name === layout);
+    const foundLayout = this.potentialLayouts.find(l => l.name === layout);
+    if(foundLayout)
+    {
+      this.selectedLayout = foundLayout;
+      return true;
+    }
+    else
+    {
+      return false;
+    }
   }
 
   addSelectedCard(card: Card): void 

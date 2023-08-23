@@ -1,0 +1,9 @@
+.facedown-card {
+    width: 100px;
+    height: 150px;
+    background-color: blue; 
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer; 
+  }

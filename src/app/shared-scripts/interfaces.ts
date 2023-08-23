@@ -1,16 +1,16 @@
-interface Deck
+export interface Deck
 {
   name: string;
   cards: number[];
 }
 
-interface Layout
+export interface Layout
 {
   name: string;
   cardAmount: number;
 }
 
-interface Card
+export interface Card
 {
   name: string;
   id: number;
@@ -18,7 +18,7 @@ interface Card
   descriptions: Description[];
 }
 
-interface Description
+export interface Description
 {
   layoutName: string;
   position: number;
