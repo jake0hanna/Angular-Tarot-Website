@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Observable } from 'rxjs';
+import { BehaviorSubject, Observable } from 'rxjs';
 import { Subject } from 'rxjs';
 import { Card, Deck, Layout } from './shared-scripts/interfaces';
 
@@ -9,24 +9,30 @@ import { Card, Deck, Layout } from './shared-scripts/interfaces';
 export class TarotService 
 {
 
-  private dataLoadedSubject = new Subject<void>();
+  private dataLoadedSubject = new BehaviorSubject<void>(null);
 
   potentialDecks: Deck[] = [];
   potentialLayouts: Layout[] = [];
   cards: Card[] = [];
 
-  selectedDeck: Deck = this.potentialDecks[0];
-  selectedLayout: Layout = this.potentialLayouts[0];
+  selectedDeck: Deck;
+  selectedLayout: Layout; 
   selectedCards: Card[] = [];
 
 
   constructor(private http: HttpClient) {
     this.loadData().subscribe(data => {
+
       this.potentialDecks = data.decks;
       this.potentialLayouts = data.layouts;
       this.cards = data.cards;
+
+      this.selectedDeck = this.potentialDecks[0];
+      this.selectedLayout = this.potentialLayouts[0];
+      
       this.dataLoadedSubject.next();
     });
+
   }
   
   onDataLoaded() {

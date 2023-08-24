@@ -1,9 +1,10 @@
 <div class ="background">
-    <div class ="main-menu" [@fadeInOut]>
+    <div class="main-menu" [@fadeInOut]="fadingOut ? 'void' : '*'">
         <h1>Welcome!</h1>
 
         <p>Please select a deck and a layout then click start.</p>
 
+        <div class="dropdown-container">
             <select class="dropdown" [(ngModel)]="selectedDeck" (change)="onDeckSelect(selectedDeck)">
                 <option *ngFor="let deck of decks" [value]="deck">
                 {{ deck }}
@@ -15,7 +16,7 @@
                 {{ layout }}
                 </option>
             </select>   
-
+        </div>
 
         <button (click)="moveToCardSelection()">Go to Card Selection</button>
 

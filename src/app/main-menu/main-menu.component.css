@@ -1,21 +1,24 @@
     .main-menu{
-    background-color: rgba(128, 128, 128, 0.3); /* gray with slight transparency */
+    background-color: rgba(255, 255, 5, 0.336);
     border: 4px solid silver;
     padding: 20px;
-    width: 320px; /* you can adjust the width as needed */
-    margin: 0 auto; /* center the div horizontally */
+    width: 320px;
+    margin: 0 auto; 
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%); /* center the div vertically and horizontally */
-    box-shadow: 0px 0px 10px rgba(177, 8, 8, 0.822); /* optional, adds a slight shadow */
+    transform: translate(-50%, -50%); 
+    box-shadow: 0px 0px 50px rgba(255, 255, 255, 0.521);
+    color: white;
+    border-color: rgba(255, 244, 88, 0.678);
+    border-style: solid;
   }
 
   .background {
-    background-color: greenyellow;
-    width: 100%; /* Set the width to cover the full viewport */
-    height: 100%; /* Set the height to cover the full viewport */
-    position: fixed; /* Fix the position so it covers the entire viewport */
+    background-image: url("/assets/background.jpg");
+    width: 100%; 
+    height: 100%; 
+    position: fixed; 
     top: 0;
     left: 0;
   }
@@ -25,28 +28,55 @@
     text-align: center;
   }
 
-  .dropdown
-  {
-    text-align: center;
-    width: 50%;
+  .dropdown-container {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0; 
   }
   
+  .dropdown {
+    text-align: center;
+    width: 45%; 
+    margin: 0 2.5%; 
+    padding-left: 5%;
+    padding-right: 5%;
+    color:whitesmoke;
+    background-color: rgba(255, 255, 255, 0.185);
+    border-radius: 50px;
+    border-style:unset;
+
+  }
+
+  .main-menu p {
+    text-align: center;
+}
+
+  
   select {
-    width: 100%; /* make the select inputs take full width of the div */
-    margin-bottom: 10px; /* add a little space between the select inputs */
+    width: 100%; 
+    margin-bottom: 10px; 
   }
   
   button {
-    display: block; /* make the button take the full width of the div */
-    width: 100%;
-    background-color: silver; /* match the border color */
+    display: block;
+    width: 80%; 
+    margin: 0 auto; 
+    background-color: rgba(255, 255, 255, 0.185);
     border: none;
     padding: 10px;
     cursor: pointer;
     font-size: 16px;
-  }
-  
-  button:hover {
-    background-color: darkgray; /* change color on hover */
-  }
-  
+    color: whitesmoke;
+    border-style: unset;
+    border-radius: 50px;
+
+
+}
+
+button:hover {
+    background-color: darkgray;
+}
+
+select:hover{
+  background-color: darkgray;
+}

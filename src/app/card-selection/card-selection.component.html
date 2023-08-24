@@ -1,14 +1,16 @@
-<div class = 'background'>
+<div class="background">
+    <div class = "cardselectdiv"[@fadeInOut]="fadingOut ? 'void' : '*'">
+      <div class="card-container">
+        <ng-container *ngFor="let card of cards; let i = index">
+          <div *ngIf="!isSelected(i)" 
+               (click)="selectCard(i)"
+               [attr.id]="'facedown-card-' + i"
+               class="facedown-card">{{i}}
+          </div>
 
-    <div [@fadeInOut]> 
-        <div>
-            <div class="facedown-card" *ngFor="let n of [].constructor(maximumCards); let i = index" (click)="selectCard(i)">
-
-            </div>
-            
-        </div>
-
+        </ng-container>
+        
+      </div>
     </div>
-
-</div>>
-
+  </div>
+  
