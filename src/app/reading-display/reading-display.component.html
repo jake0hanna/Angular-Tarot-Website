@@ -1,1 +1,16 @@
-<p>reading-display works!</p>
+<div class="background">
+    <div class="reading-display" [@fadeInOut]="fadingOut ? 'void' : '*'">
+      <h1>{{ activeCard.name }} {{ uprightOrReversed[selectedCards.indexOf(activeCard)] ? 'Upright' : 'Reversed' }}</h1>
+  
+      <img class="card-display" src="{{ activeCard.image }}" alt="{{ activeCard.name }}">
+  
+      <p class="description-box">{{ getDescription(activeCard) }}</p>
+  
+      <div class="buttons-container">
+        <button *ngIf="selectedCards.indexOf(activeCard) > 0" (click)="goToPreviousCard()">Previous Card</button>
+        <button *ngIf="selectedCards.indexOf(activeCard) < selectedCards.length - 1" (click)="goToNextCard()">Next Card</button>
+        <button *ngIf="selectedCards.indexOf(activeCard) === selectedCards.length - 1" class="full-width" (click)="endReading()">End Reading</button>
+      </div>
+    </div>
+  </div>
+  

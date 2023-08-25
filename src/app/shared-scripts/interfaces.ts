@@ -8,6 +8,7 @@ export interface Layout
 {
   name: string;
   cardAmount: number;
+  positionsDescription: string[];
 }
 
 export interface Card
