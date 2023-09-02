@@ -11,9 +11,7 @@ import { fadeInOut } from '../shared-scripts/animations';
   selector: 'app-reading-display',
   templateUrl: './reading-display.component.html',
   styleUrls: ['./reading-display.component.css'],
-  animations: [
-    fadeInOut
-  ]
+  animations: [fadeInOut]
 })
 export class ReadingDisplayComponent {
 
@@ -67,14 +65,13 @@ export class ReadingDisplayComponent {
     this.fadingOut = true;
   
     setTimeout(() => {
-      const mainMenuDiv = this.el.nativeElement.querySelector('.main-menu');
+      const mainMenuDiv = this.el.nativeElement.querySelector('.reading-display');
       this.renderer.setStyle(mainMenuDiv, 'display', 'none'); //Manual hiding is neccessary
       setTimeout(() => {
-        this.router.navigate(['/cards-selection']);
+        this.router.navigate(['/end-reading']);
       }, 200)
       
     }, 1000); 
-    this.router.navigate(['/end-reading']);
 
   }
 

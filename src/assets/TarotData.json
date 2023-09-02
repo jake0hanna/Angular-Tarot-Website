@@ -245,10 +245,160 @@
             {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for Justice Upright in Position 7", "descriptionReversed": "Description for Justice Reversed in Position 7"},
             {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for Justice Upright in Position 8", "descriptionReversed": "Description for Justice Reversed in Position 8"}
           ]
+        },
+        {
+          "name": "The Hanged Man",
+          "id": 12,
+          "image": "/assets/card_images/the-hanged-man.jpg",
+          "descriptions": [
+            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Hanged Man Upright in Position 1", "descriptionReversed": "Description for The Hanged Man Reversed in Position 1"},
+            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Hanged Man Upright in Position 2", "descriptionReversed": "Description for The Hanged Man Reversed in Position 2"},
+            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Hanged Man Upright in Position 3", "descriptionReversed": "Description for The Hanged Man Reversed in Position 3"},
+            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Hanged Man Upright in Position 4", "descriptionReversed": "Description for The Hanged Man Reversed in Position 4"},
+            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Hanged Man Upright in Position 5", "descriptionReversed": "Description for The Hanged Man Reversed in Position 5"},
+            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Hanged Man Upright in Position 6", "descriptionReversed": "Description for The Hanged Man Reversed in Position 6"},
+            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Hanged Man Upright in Position 7", "descriptionReversed": "Description for The Hanged Man Reversed in Position 7"},
+            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Hanged Man Upright in Position 8", "descriptionReversed": "Description for The Hanged Man Reversed in Position 8"}
+          ]
+        },
+        {
+          "name": "Death",
+          "id": 13,
+          "image": "/assets/card_images/death.jpg",
+          "descriptions": [
+            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for Death Upright in Position 1", "descriptionReversed": "Description for Death Reversed in Position 1"},
+            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for Death Upright in Position 2", "descriptionReversed": "Description for Death Reversed in Position 2"},
+            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for Death Upright in Position 3", "descriptionReversed": "Description for Death Reversed in Position 3"},
+            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for Death Upright in Position 4", "descriptionReversed": "Description for Death Reversed in Position 4"},
+            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for Death Upright in Position 5", "descriptionReversed": "Description for Death Reversed in Position 5"},
+            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for Death Upright in Position 6", "descriptionReversed": "Description for Death Reversed in Position 6"},
+            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for Death Upright in Position 7", "descriptionReversed": "Description for Death Reversed in Position 7"},
+            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for Death Upright in Position 8", "descriptionReversed": "Description for Death Reversed in Position 8"}
+          ]
+        },
+        {
+          "name": "Temperance",
+          "id": 14,
+          "image": "/assets/card_images/temperance.jpg",
+          "descriptions": [
+            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for Temperance Upright in Position 1", "descriptionReversed": "Description for Temperance Reversed in Position 1"},
+            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for Temperance Upright in Position 2", "descriptionReversed": "Description for Temperance Reversed in Position 2"},
+            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for Temperance Upright in Position 3", "descriptionReversed": "Description for Temperance Reversed in Position 3"},
+            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for Temperance Upright in Position 4", "descriptionReversed": "Description for Temperance Reversed in Position 4"},
+            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for Temperance Upright in Position 5", "descriptionReversed": "Description for Temperance Reversed in Position 5"},
+            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for Temperance Upright in Position 6", "descriptionReversed": "Description for Temperance Reversed in Position 6"},
+            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for Temperance Upright in Position 7", "descriptionReversed": "Description for Temperance Reversed in Position 7"},
+            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for Temperance Upright in Position 8", "descriptionReversed": "Description for Temperance Reversed in Position 8"}
+          ]
+        },
+        {
+          "name": "The Devil",
+          "id": 15,
+          "image": "/assets/card_images/the-devil.jpg",
+          "descriptions": [
+            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Devil Upright in Position 1", "descriptionReversed": "Description for The Devil Reversed in Position 1"},
+            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Devil Upright in Position 2", "descriptionReversed": "Description for The Devil Reversed in Position 2"},
+            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Devil Upright in Position 3", "descriptionReversed": "Description for The Devil Reversed in Position 3"},
+            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Devil Upright in Position 4", "descriptionReversed": "Description for The Devil Reversed in Position 4"},
+            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Devil Upright in Position 5", "descriptionReversed": "Description for The Devil Reversed in Position 5"},
+            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Devil Upright in Position 6", "descriptionReversed": "Description for The Devil Reversed in Position 6"},
+            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Devil Upright in Position 7", "descriptionReversed": "Description for The Devil Reversed in Position 7"},
+            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Devil Upright in Position 8", "descriptionReversed": "Description for The Devil Reversed in Position 8"}
+          ]
+        },
+
+        {
+          "name": "The Tower",
+          "id": 16,
+          "image": "/assets/card_images/the-tower.jpg",
+          "descriptions": [
+            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Tower Upright in Position 1", "descriptionReversed": "Description for The Tower Reversed in Position 1"},
+            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Tower Upright in Position 2", "descriptionReversed": "Description for The Tower Reversed in Position 2"},
+            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Tower Upright in Position 3", "descriptionReversed": "Description for The Tower Reversed in Position 3"},
+            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Tower Upright in Position 4", "descriptionReversed": "Description for The Tower Reversed in Position 4"},
+            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Tower Upright in Position 5", "descriptionReversed": "Description for The Tower Reversed in Position 5"},
+            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Tower Upright in Position 6", "descriptionReversed": "Description for The Tower Reversed in Position 6"},
+            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Tower Upright in Position 7", "descriptionReversed": "Description for The Tower Reversed in Position 7"},
+            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Tower Upright in Position 8", "descriptionReversed": "Description for The Tower Reversed in Position 8"}
+          ]
+        },
+        {
+          "name": "The Star",
+          "id": 17,
+          "image": "/assets/card_images/the-star.jpg",
+          "descriptions": [
+            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Star Upright in Position 1", "descriptionReversed": "Description for The Star Reversed in Position 1"},
+            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Star Upright in Position 2", "descriptionReversed": "Description for The Star Reversed in Position 2"},
+            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Star Upright in Position 3", "descriptionReversed": "Description for The Star Reversed in Position 3"},
+            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Star Upright in Position 4", "descriptionReversed": "Description for The Star Reversed in Position 4"},
+            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Star Upright in Position 5", "descriptionReversed": "Description for The Star Reversed in Position 5"},
+            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Star Upright in Position 6", "descriptionReversed": "Description for The Star Reversed in Position 6"},
+            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Star Upright in Position 7", "descriptionReversed": "Description for The Star Reversed in Position 7"},
+            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Star Upright in Position 8", "descriptionReversed": "Description for The Star Reversed in Position 8"}
+          ]
+        },
+        {
+          "name": "The Moon",
+          "id": 18,
+          "image": "/assets/card_images/the-moon.jpg",
+          "descriptions": [
+            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Moon Upright in Position 1", "descriptionReversed": "Description for The Moon Reversed in Position 1"},
+            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Moon Upright in Position 2", "descriptionReversed": "Description for The Moon Reversed in Position 2"},
+            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Moon Upright in Position 3", "descriptionReversed": "Description for The Moon Reversed in Position 3"},
+            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Moon Upright in Position 4", "descriptionReversed": "Description for The Moon Reversed in Position 4"},
+            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Moon Upright in Position 5", "descriptionReversed": "Description for The Moon Reversed in Position 5"},
+            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Moon Upright in Position 6", "descriptionReversed": "Description for The Moon Reversed in Position 6"},
+            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Moon Upright in Position 7", "descriptionReversed": "Description for The Moon Reversed in Position 7"},
+            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Moon Upright in Position 8", "descriptionReversed": "Description for The Moon Reversed in Position 8"}
+          ]
+        },
+
+        {
+          "name": "The Sun",
+          "id": 19,
+          "image": "/assets/card_images/the-sun.jpg",
+          "descriptions": [
+            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Sun Upright in Position 1", "descriptionReversed": "Description for The Sun Reversed in Position 1"},
+            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Sun Upright in Position 2", "descriptionReversed": "Description for The Sun Reversed in Position 2"},
+            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Sun Upright in Position 3", "descriptionReversed": "Description for The Sun Reversed in Position 3"},
+            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Sun Upright in Position 4", "descriptionReversed": "Description for The Sun Reversed in Position 4"},
+            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Sun Upright in Position 5", "descriptionReversed": "Description for The Sun Reversed in Position 5"},
+            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Sun Upright in Position 6", "descriptionReversed": "Description for The Sun Reversed in Position 6"},
+            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Sun Upright in Position 7", "descriptionReversed": "Description for The Sun Reversed in Position 7"},
+            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Sun Upright in Position 8", "descriptionReversed": "Description for The Sun Reversed in Position 8"}
+          ]
+        },
+        {
+          "name": "Judgement",
+          "id": 20,
+          "image": "/assets/card_images/judgement.jpg",
+          "descriptions": [
+            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for Judgement Upright in Position 1", "descriptionReversed": "Description for Judgement Reversed in Position 1"},
+            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for Judgement Upright in Position 2", "descriptionReversed": "Description for Judgement Reversed in Position 2"},
+            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for Judgement Upright in Position 3", "descriptionReversed": "Description for Judgement Reversed in Position 3"},
+            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for Judgement Upright in Position 4", "descriptionReversed": "Description for Judgement Reversed in Position 4"},
+            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for Judgement Upright in Position 5", "descriptionReversed": "Description for Judgement Reversed in Position 5"},
+            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for Judgement Upright in Position 6", "descriptionReversed": "Description for Judgement Reversed in Position 6"},
+            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for Judgement Upright in Position 7", "descriptionReversed": "Description for Judgement Reversed in Position 7"},
+            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for Judgement Upright in Position 8", "descriptionReversed": "Description for Judgement Reversed in Position 8"}
+          ]
+        },
+        {
+          "name": "The World",
+          "id": 21,
+          "image": "/assets/card_images/the-world.jpg",
+          "descriptions": [
+            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The World Upright in Position 1", "descriptionReversed": "Description for The World Reversed in Position 1"},
+            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The World Upright in Position 2", "descriptionReversed": "Description for The World Reversed in Position 2"},
+            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The World Upright in Position 3", "descriptionReversed": "Description for The World Reversed in Position 3"},
+            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The World Upright in Position 4", "descriptionReversed": "Description for The World Reversed in Position 4"},
+            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The World Upright in Position 5", "descriptionReversed": "Description for The World Reversed in Position 5"},
+            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The World Upright in Position 6", "descriptionReversed": "Description for The World Reversed in Position 6"},
+            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The World Upright in Position 7", "descriptionReversed": "Description for The World Reversed in Position 7"},
+            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The World Upright in Position 8", "descriptionReversed": "Description for The World Reversed in Position 8"}
+          ]
         }
-      
-      
-      
-    ]
+      ]
+    
   }
   
