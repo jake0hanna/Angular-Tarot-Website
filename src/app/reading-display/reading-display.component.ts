@@ -25,9 +25,6 @@ export class ReadingDisplayComponent {
 
   activeCard: Card = this.selectedCards[0];
 
-
-  //generate random up or down for each card when this component is loaded
-
   uprightOrReversed: boolean[] = [];
 
   ngOnInit(): void {

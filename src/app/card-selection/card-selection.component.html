@@ -2,12 +2,12 @@
     <div class = "cardselectdiv"[@fadeInOut]="fadingOut ? 'void' : '*'">
       <div class="card-container">
         <ng-container *ngFor="let card of cards; let i = index">
-          <div *ngIf="!isSelected(i)" 
+          <img src="/assets/card_images/card-background.jpg"
+               *ngIf="!isSelected(i)" 
                (click)="selectCard(i)"
                [attr.id]="'facedown-card-' + i"
                class="facedown-card">{{i}}
-          </div>
-
+        
         </ng-container>
         
       </div>

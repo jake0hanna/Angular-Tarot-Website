@@ -58,22 +58,68 @@
     "cards": [
       
       
-        {
-          "name": "The Fool",
-          "id": 0,
-          "image": "/assets/card_images/the-fool.jpg",
-          "descriptions": [
-            {"layoutName": "Card of the Day", "position": 1, "descriptionUpright": "", "descriptionReversed": ""},
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Fool Upright in Position 1", "descriptionReversed": "Description for The Fool Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Fool Upright in Position 2", "descriptionReversed": "Description for The Fool Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Fool Upright in Position 3", "descriptionReversed": "Description for The Fool Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Fool Upright in Position 4", "descriptionReversed": "Description for The Fool Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Fool Upright in Position 5", "descriptionReversed": "Description for The Fool Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Fool Upright in Position 6", "descriptionReversed": "Description for The Fool Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Fool Upright in Position 7", "descriptionReversed": "Description for The Fool Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Fool Upright in Position 8", "descriptionReversed": "Description for The Fool Reversed in Position 8"}
-          ]
-        },
+      {
+        "name": "The Fool",
+        "id": 0,
+        "image": "/assets/card_images/the-fool.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Embrace a fresh start today, and approach situations with childlike wonder.",
+            "descriptionReversed": "Beware of making impulsive decisions without considering consequences."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "The theme suggests new beginnings, embracing uncertainty, and trusting the journey.",
+            "descriptionReversed": "The theme highlights a need for caution and to not rush into things without thinking."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "In the past, you took a leap of faith and started a new journey.",
+            "descriptionReversed": "Past decisions may have been made without full consideration, leading to challenges."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Currently, you're in a phase of exploration and open-mindedness.",
+            "descriptionReversed": "You may be feeling hesitant or unprepared in your current situation."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future holds new opportunities and adventures; trust the process.",
+            "descriptionReversed": "Future challenges may arise from not being fully prepared or overlooking details."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Stay open to possibilities and take calculated risks.",
+            "descriptionReversed": "Re-evaluate your plans and ensure you're not being too reckless."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "External forces encourage you to be free-spirited and embrace change.",
+            "descriptionReversed": "External influences might be urging caution or pointing out naïveté."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "You hope for a fresh start and new experiences, but fear the unknown.",
+            "descriptionReversed": "Your hopes are clouded by fear of making a wrong step or being too impulsive."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Your journey will lead to growth, discovery, and learning.",
+            "descriptionReversed": "Be cautious of potential pitfalls or missteps that could divert your path."
+          }
+        ]
+      },
+      
         {
           "name": "The Magician",
           "id": 1,

@@ -13,8 +13,6 @@ import { fadeInOut } from 'src/app/shared-scripts/animations';
 })
 export class MainMenuComponent implements OnInit {
 
-  fadingOut: boolean = false;
-
   private dataLoadedSubscription: Subscription | undefined;
 
   selectedDeck: string = '';
@@ -22,6 +20,17 @@ export class MainMenuComponent implements OnInit {
 
   selectedLayout: string = '';
   layouts: string[] = [];
+
+  //Animation Data///////////
+  fadingOut: boolean = false;
+
+  shadowOpacity: number = 0.3;
+  intervalId: any;
+
+  specks: any[] = [];
+  numOfSpecks: number = 5;
+  speckIntervalId: any;
+  ///////////////////////////
 
   constructor(private tarotService: TarotService, private router: Router, private renderer: Renderer2, private el: ElementRef,) {}
 
@@ -35,13 +44,73 @@ export class MainMenuComponent implements OnInit {
       this.selectedLayout = this.layouts[0];
 
     });
+    this.startShadowAnimation();
+    //this.generateSpecks();
+    //this.moveSpecks();
   }
 
   ngOnDestroy(): void {
     if (this.dataLoadedSubscription) {
       this.dataLoadedSubscription.unsubscribe();
     }
+    clearInterval(this.intervalId);
+    clearInterval(this.speckIntervalId);
   }
+
+  startShadowAnimation() {
+    let increasing = true;
+  
+    this.intervalId = setInterval(() => {
+      if (this.shadowOpacity > 1.2) increasing = false;
+      if (this.shadowOpacity < 0.5) increasing = true;
+  
+      if (increasing) {
+        this.shadowOpacity += 0.01;
+      } else {
+        this.shadowOpacity -= 0.01;
+      }
+  
+      // Apply the style
+      const mainMenuDiv = this.el.nativeElement.querySelector('.main-menu');
+      this.renderer.setStyle(mainMenuDiv, 'box-shadow', `0px 0px 50px rgba(255, 255, 255, ${this.shadowOpacity})`);
+    }, 50);
+  }
+  
+  generateSpecks() {
+    for (let i = 0; i < this.numOfSpecks; i++) 
+    {
+      const x = Math.random() * window.innerWidth;
+      const y = Math.random() * window.innerHeight;
+      
+      const speck = this.renderer.createElement('div');
+      this.renderer.addClass(speck, 'speck');
+      this.renderer.setStyle(speck, 'left', x + 'px');
+      this.renderer.setStyle(speck, 'top', y + 'px');
+      
+      this.specks.push(speck);
+    }
+    
+    const backgroundDiv = this.el.nativeElement.querySelector('.background');
+    for (const speck of this.specks) 
+    {
+      this.renderer.appendChild(backgroundDiv, speck);
+    }
+  }
+  
+  moveSpecks() {
+    this.speckIntervalId = setInterval(() => {
+      for (const speck of this.specks) 
+      {
+        const x = Math.random() * window.innerWidth;
+        const y = Math.random() * window.innerHeight;
+        
+        this.renderer.setStyle(speck, 'left', x + 'px');
+        this.renderer.setStyle(speck, 'top', y + 'px');
+      }
+    }, 1000);
+  }
+  
+
 
   onDeckSelect(deck: string) 
   {  
