@@ -11,7 +11,8 @@ import { fadeInOut } from 'src/app/shared-scripts/animations';
   styleUrls: ['./main-menu.component.css'],
   animations: [fadeInOut]
 })
-export class MainMenuComponent implements OnInit {
+export class MainMenuComponent implements OnInit 
+{
 
   private dataLoadedSubscription: Subscription | undefined;
 
@@ -34,7 +35,8 @@ export class MainMenuComponent implements OnInit {
 
   constructor(private tarotService: TarotService, private router: Router, private renderer: Renderer2, private el: ElementRef,) {}
 
-  ngOnInit(): void {
+  ngOnInit(): void 
+  {
     this.dataLoadedSubscription = this.tarotService.onDataLoaded().subscribe(() => 
     {
       this.decks = this.tarotService.getDeckNames();
@@ -49,7 +51,8 @@ export class MainMenuComponent implements OnInit {
     //this.moveSpecks();
   }
 
-  ngOnDestroy(): void {
+  ngOnDestroy(): void 
+  {
     if (this.dataLoadedSubscription) {
       this.dataLoadedSubscription.unsubscribe();
     }
@@ -57,7 +60,8 @@ export class MainMenuComponent implements OnInit {
     clearInterval(this.speckIntervalId);
   }
 
-  startShadowAnimation() {
+  startShadowAnimation() 
+  {
     let increasing = true;
   
     this.intervalId = setInterval(() => {
@@ -70,7 +74,6 @@ export class MainMenuComponent implements OnInit {
         this.shadowOpacity -= 0.01;
       }
   
-      // Apply the style
       const mainMenuDiv = this.el.nativeElement.querySelector('.main-menu');
       this.renderer.setStyle(mainMenuDiv, 'box-shadow', `0px 0px 50px rgba(255, 255, 255, ${this.shadowOpacity})`);
     }, 50);

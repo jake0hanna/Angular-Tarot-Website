@@ -13,7 +13,8 @@ import { fadeInOut } from '../shared-scripts/animations';
   styleUrls: ['./reading-display.component.css'],
   animations: [fadeInOut]
 })
-export class ReadingDisplayComponent {
+export class ReadingDisplayComponent 
+{
 
   constructor(private router: Router, private tarotService: TarotService, private renderer: Renderer2, private el: ElementRef) { }
 
@@ -27,21 +28,22 @@ export class ReadingDisplayComponent {
 
   uprightOrReversed: boolean[] = [];
 
-  ngOnInit(): void {
+  ngOnInit(): void 
+  {
     this.selectedCards.forEach(card => {
       this.uprightOrReversed.push(Math.random() < 0.5);
     });
     this.fadingOut = false;
   }
 
-  getDescription(card: Card): string {
+  getDescription(card: Card): string 
+  {
     const layoutName = this.selectedLayout.name;
     const cardIndex = this.selectedCards.indexOf(card);
     const descriptionObj = card.descriptions.find(desc => desc.layoutName === layoutName && desc.position === cardIndex);
     const isUpright = this.uprightOrReversed[cardIndex];
     return descriptionObj ? (isUpright ? descriptionObj.descriptionUpright : descriptionObj.descriptionReversed) : 'Not Found';
   }
-
 
   goToPreviousCard(): void
   {

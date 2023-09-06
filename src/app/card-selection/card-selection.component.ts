@@ -40,13 +40,14 @@
       });
     }
 
-    ngOnInit(): void {
+    ngOnInit(): void 
+    {
       this.fadingOut = false;
     }
     
     
-    ngAfterViewInit(): void {
-      console.log('ngAfterViewInit executed');
+    ngAfterViewInit(): void 
+    {
       this.animate();
 
       this.dataLoadedSubscription = this.tarotService.onDataLoaded().subscribe(() => {
@@ -60,10 +61,14 @@
     initializeCards() 
     {
       console.log('Maximum cards:', this.maximumCards);
-      for (let i = 0; i < this.maximumCards; i++) {
+      for (let i = 0; i < this.maximumCards; i++) 
+      {
         this.cards.push({
+          //starting position
           x: Math.random() * this.containerWidth,
           y: Math.random() * this.containerHeight,
+
+          //vectors
           vx: (Math.random() * 2 - 1) ,
           vy: (Math.random() * 2 - 1) ,
           selected: false
@@ -71,8 +76,10 @@
       }
     }
 
-    animate() {
-      for (const card of this.cards) {
+    animate() 
+    {
+      for (const card of this.cards) 
+      {
         card.x += card.vx;
         card.y += card.vy;
     
@@ -84,7 +91,8 @@
         const cardElement = document.getElementById(`facedown-card-${this.cards.indexOf(card)}`);
     
         // Update the position of the card element
-        if (cardElement) {
+        if (cardElement) 
+        {
           this.renderer.setStyle(cardElement, 'left', card.x + 'px');
           this.renderer.setStyle(cardElement, 'top', card.y + 'px');
         }
@@ -94,43 +102,48 @@
     }
     
 
-    ngOnDestroy(): void {
+    ngOnDestroy(): void 
+    {
       // Stop animation
-      if (this.animationFrameId !== null) {
+      if (this.animationFrameId !== null) 
+      {
         cancelAnimationFrame(this.animationFrameId);
       }
   
       // Unsubscribe from data loaded subject
-      if (this.dataLoadedSubscription !== null) {
+      if (this.dataLoadedSubscription !== null) 
+      {
         this.dataLoadedSubscription.unsubscribe();
       }
     }
     
-    selectCard(index: number): void {
-      console.log('Selected card index:', index);
-      console.log('Selected cards:', this.selectedCards);
-      if (this.selectedCards.length < this.tarotService.selectedLayout.cardAmount) {
+    selectCard(index: number): void 
+    {
+      if (this.selectedCards.length < this.tarotService.selectedLayout.cardAmount) 
+      {
         this.selectedCards.push(index);
         this.cards[index].selected = true;    
 
-        if (this.tarotService.selectCards(this.selectedCards)) {
+        if (this.tarotService.selectCards(this.selectedCards)) 
+        {
           this.navigateToReading();
         }
       }
     }
 
-    isSelected(index: number): boolean {
+    isSelected(index: number): boolean 
+    {
       return this.selectedCards.includes(index);
     }
     
     
-    navigateToReading(): void {
+    navigateToReading(): void 
+    {
       this.fadingOut = true;
-    
-      // Wait for the animation to complete, then navigate to the next page
+  
       setTimeout(() => {
         this.router.navigate(['/reading-display']);
-      }, 1000); // This should match the duration of your fade-out animation
+      }, 1000);
     }
     
     
