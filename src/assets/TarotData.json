@@ -55,9 +55,7 @@
         ]
       }
     ],
-    "cards": [
-      
-      
+    "cards": [   
       {
         "name": "The Fool",
         "id": 0,
@@ -119,331 +117,1288 @@
           }
         ]
       },
+      {
+        "name": "The Magician",
+        "id": 1,
+        "image": "/assets/card_images/the-magician.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Harness the universe's energies to manifest your goals. Your potential is limitless.",
+            "descriptionReversed": "Beware of deception or potential misuse of power."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "The theme revolves around manifestation, utilizing available resources and potential.",
+            "descriptionReversed": "There's an underlying theme of untapped potential or misuse of talents."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Past actions have demonstrated your capability to harness skills and talents.",
+            "descriptionReversed": "Past hesitations or missed opportunities may have been due to self-doubt."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Currently, you possess all the tools needed to succeed. It's a matter of applying them.",
+            "descriptionReversed": "You might be overlooking some of your skills or not utilizing them to their potential."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future brings a phase where you'll be in full control, directing your destiny.",
+            "descriptionReversed": "There may be potential challenges stemming from not harnessing your full power."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Now's the time to take action, gather resources, and trust in your capabilities.",
+            "descriptionReversed": "Re-evaluate your intentions and make sure you're not being manipulative."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "External factors are aligning in your favor, highlighting your talents.",
+            "descriptionReversed": "Outside influences might be causing self-doubt or distractions."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "You hope to manifest your desires, but fear you might not have what it takes.",
+            "descriptionReversed": "Doubts and fears about misuse of power or overconfidence loom large."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "You're on a path of mastering your environment and manifesting intentions.",
+            "descriptionReversed": "Watch out for potential pitfalls of arrogance or overlooking details."
+          }
+        ]
+      },
+      {
+        "name": "The High Priestess",
+        "id": 2,
+        "image": "/assets/card_images/the-high-priestess.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Trust your intuition and inner wisdom today. There are mysteries yet to unfold.",
+            "descriptionReversed": "You may be out of touch with your intuition or overlooking crucial inner truths."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "The theme revolves around intuition, unconscious knowledge, and spiritual insight.",
+            "descriptionReversed": "You may be facing a period of ignoring inner calling or being overly rational."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Your past was marked by intuitive decisions and deep spiritual connections.",
+            "descriptionReversed": "Past experiences may have caused you to suppress your intuitive side."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "You're currently tuned into the deeper frequencies and subconscious realms.",
+            "descriptionReversed": "You might be neglecting the messages from your subconscious or inner self."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "Future pathways open through intuition, dreams, and spiritual pursuits.",
+            "descriptionReversed": "You may encounter future blocks if you continue to ignore your inner guidance."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Seek answers within, meditate, and listen to your inner voice for guidance.",
+            "descriptionReversed": "Be cautious about being too skeptical or dismissing intuitive insights."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "Outside forces are urging you to trust your gut and acknowledge the unseen.",
+            "descriptionReversed": "External factors might be causing confusion or disconnect from your intuitive self."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "You hope for deeper connections and revelations but fear the unknown.",
+            "descriptionReversed": "There's a fear of confronting truths or mysteries within yourself."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Embracing your inner wisdom will lead to enlightenment and spiritual growth.",
+            "descriptionReversed": "A potential for stagnation or lack of personal growth if intuition is ignored."
+          }
+        ]
+      },
+      {
+        "name": "The Empress",
+        "id": 3,
+        "image": "/assets/card_images/the-empress.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Embrace nurturing, fertility, and abundance. Today, express your creativity and love.",
+            "descriptionReversed": "There may be issues related to nurturing, either receiving or giving. Creative blocks could also arise."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "The theme is one of maternal love, nurturing, and creative abundance.",
+            "descriptionReversed": "You may be experiencing feelings of lack, or issues related to motherhood and creativity."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Past events were marked by growth, fertility, and abundance in various forms.",
+            "descriptionReversed": "You might have faced neglect or experienced a lack of growth in the past."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "You're currently in a phase of growth, nurturing, and creating.",
+            "descriptionReversed": "There may be issues currently with stagnation or not nurturing yourself or others."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future promises a time of abundance, fertility, and possibly motherhood.",
+            "descriptionReversed": "Potential future challenges related to nurturing, creativity, or fertility."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "It's time to nurture your projects and relationships, allowing them to flourish.",
+            "descriptionReversed": "Reconsider your approach if you're feeling smothered or stifled in any way."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "External energies support growth and creativity. Nature may play a significant role.",
+            "descriptionReversed": "Outside influences might be causing feelings of barrenness or neglect."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Hopes for growth, abundance, and maternal love, but fears related to lack or loss.",
+            "descriptionReversed": "Concerns about not being nurturing enough or fears of creative blocks."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Your journey leads to abundance and growth if the energies are embraced.",
+            "descriptionReversed": "Potential for neglecting the nurturing and creative aspects of life."
+          }
+        ]
+      },
+      {
+        "name": "The Emperor",
+        "id": 4,
+        "image": "/assets/card_images/the-emperor.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today, embrace leadership, structure, and authority. It's a time to stand firm and take charge.",
+            "descriptionReversed": "Issues of dominance, rigidity, or misuse of power may arise."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "Your journey is themed around leadership, structure, and authority.",
+            "descriptionReversed": "You may face challenges related to excessive control or rigid systems."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "In the past, there was order, leadership, and a strong foundation.",
+            "descriptionReversed": "Past challenges may have revolved around tyranny or lack of discipline."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Currently, you're in a position of power or seeking structure and discipline.",
+            "descriptionReversed": "There's a potential for being too controlling or facing someone who is."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future may bring more leadership roles, or a need for more structure in your life.",
+            "descriptionReversed": "Watch out for potential rigidness, autocracy, or an overly structured environment in the future."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Taking charge, setting boundaries, and establishing order are recommended now.",
+            "descriptionReversed": "Be wary of becoming too authoritative or imposing on others."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "Outside forces respect your authority and are likely to support your leadership.",
+            "descriptionReversed": "External factors might challenge your authority or introduce chaos."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "You hope for order and stability, but there's a fear of becoming too inflexible.",
+            "descriptionReversed": "Concerns about being too dominating or fears related to lack of control."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Embracing leadership and authority will pave the way for success and stability.",
+            "descriptionReversed": "Potential risks related to misuse of power or becoming too rigid in your approach."
+          }
+        ]
+      },
+      {
+        "name": "The Hierophant",
+        "id": 5,
+        "image": "/assets/card_images/the-hierophant.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today, seek wisdom from traditional sources. It's a time for understanding rituals, teachings, and guidance from established institutions.",
+            "descriptionReversed": "Potential for questioning traditions or feeling confined by established norms."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "Your path is influenced by traditional values, religious beliefs, and conventional systems.",
+            "descriptionReversed": "There may be struggles with orthodoxy or feeling trapped by tradition."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Past foundations were built upon structured teachings and traditional beliefs.",
+            "descriptionReversed": "Past challenges might have stemmed from questioning or rebelling against orthodoxy."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Currently, there's a pull towards traditional structures, institutions, or spiritual guidance.",
+            "descriptionReversed": "You or others around you might be challenging or questioning traditional norms."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future suggests aligning with structured institutions or seeking spiritual guidance from established sources.",
+            "descriptionReversed": "Potential future conflicts with conventional systems or feelings of restriction."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Embrace traditional teachings and trust in established methods.",
+            "descriptionReversed": "Consider if blindly following conventions is serving your higher purpose."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "External forces favor sticking to traditions and following established pathways.",
+            "descriptionReversed": "Outside influences might introduce non-traditional perspectives or challenges to the status quo."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "You're hopeful about the stability traditional paths provide but might fear rigidity.",
+            "descriptionReversed": "Concerns about being too confined or fears of not fitting into conventional molds."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Following traditional guidance will provide clarity and structured growth.",
+            "descriptionReversed": "Potential to feel restricted or limited by established norms."
+          }
+        ]
+      },
+      {
+        "name": "The Lovers",
+        "id": 6,
+        "image": "/assets/card_images/the-lovers.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today, focus on partnerships, choices, and deep connections. Trust in the bonds you form.",
+            "descriptionReversed": "Potential challenges in relationships or difficulty making a significant choice."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "Your journey emphasizes the significance of choices, partnerships, and uniting opposites.",
+            "descriptionReversed": "Challenges in decision-making or disharmony in close relationships."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Past experiences were marked by profound connections, crucial choices, or uniting dualities.",
+            "descriptionReversed": "Past challenges might have involved relationship disputes or decision dilemmas."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Your current environment emphasizes bonding, making choices, or seeking harmony in relationships.",
+            "descriptionReversed": "Current potential conflicts or hesitations in making a pivotal choice."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future holds deeper connections, harmonious partnerships, or critical choices to be made.",
+            "descriptionReversed": "Upcoming potential challenges in relationships or decisions."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Foster your connections and consider all aspects before making decisions.",
+            "descriptionReversed": "Reevaluate relationships or choices that feel misaligned with your truth."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "Outside influences support harmonious unions and encourage thoughtful decisions.",
+            "descriptionReversed": "External factors might disrupt relationships or complicate choices."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Hopes center around harmonious partnerships, while fears might involve separation or making the wrong choice.",
+            "descriptionReversed": "Concerns about relationship conflicts or indecisiveness."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Embracing love and making informed decisions will lead to harmony and fulfillment.",
+            "descriptionReversed": "Potential risks of discord in relationships or regretting a decision."
+          }
+        ]
+      },
+      {
+        "name": "The Chariot",
+        "id": 7,
+        "image": "/assets/card_images/the-chariot.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today, harness your willpower and drive. Focus on your goals, and steer your life with determination.",
+            "descriptionReversed": "Potential challenges in direction or conflicting desires."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "Your journey emphasizes the power of determination, direction, and control.",
+            "descriptionReversed": "Possible struggles with maintaining direction or conflicts between mind and heart."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Your past was influenced by ambition, drive, and the quest for victory.",
+            "descriptionReversed": "Past challenges might have included lack of direction or feeling pulled in different ways."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Currently, determination and focus are at the forefront. Harness this energy to move forward.",
+            "descriptionReversed": "Potential present challenges in maintaining focus or facing conflicting desires."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "Your future is marked by victory through determination and a clear direction.",
+            "descriptionReversed": "Possible future issues with direction or facing inner conflicts."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Stay disciplined and goal-oriented. Command your path with confidence.",
+            "descriptionReversed": "Evaluate any lack of direction or conflicting motivations."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "Outside forces rally behind your determination and direction.",
+            "descriptionReversed": "External challenges might deter your progress or introduce conflicting paths."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Your hopes center on triumph and direction, while fears might involve loss of control.",
+            "descriptionReversed": "Concerns about being steered off course or having conflicting ambitions."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Your determination and clear vision will lead to success and mastery.",
+            "descriptionReversed": "Potential risks of losing focus or being torn between different paths."
+          }
+        ]
+      },
+      {
+        "name": "Strength",
+        "id": 8,
+        "image": "/assets/card_images/strength.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today, tap into your inner strength and courage. Show compassion and control over situations.",
+            "descriptionReversed": "Potential challenges with self-doubt or uncontrolled emotions."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "Your journey is marked by courage, inner strength, and compassionate control.",
+            "descriptionReversed": "Struggles with inner doubts or letting emotions take the lead."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Your past was influenced by displays of courage, resilience, and compassionate actions.",
+            "descriptionReversed": "Past challenges might have stemmed from feelings of weakness or inability to control emotions."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Currently, harnessing inner strength and maintaining emotional control are central themes.",
+            "descriptionReversed": "Potential present struggles with self-belief or emotional turbulence."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future calls for displays of courage, resilience, and compassion.",
+            "descriptionReversed": "Future challenges might involve dealing with doubt or emotional upheavals."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Embrace your inner power and lead with kindness and compassion.",
+            "descriptionReversed": "Reflect on any tendencies to let emotions overpower reason."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "External forces encourage you to tap into your strength and display compassion.",
+            "descriptionReversed": "Outside influences might introduce self-doubt or emotional tests."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Hopes rest on being seen as strong and kind, while fears might revolve around appearing weak.",
+            "descriptionReversed": "Concerns about emotional vulnerability or lack of courage."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "By harnessing inner strength and showing compassion, fulfillment and self-mastery await.",
+            "descriptionReversed": "Potential risks of emotional turmoil or perceived weakness."
+          }
+        ]
+      },
+      {
+        "name": "The Hermit",
+        "id": 9,
+        "image": "/assets/card_images/the-hermit.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today, seek solitude for introspection. Let inner guidance illuminate your path.",
+            "descriptionReversed": "Potential challenges with feeling isolated or not heeding inner wisdom."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "Your journey calls for introspection, seeking wisdom, and understanding inner truths.",
+            "descriptionReversed": "Potential avoidance of introspection or struggling with isolation."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Your past was influenced by periods of introspection, seeking truth, or spiritual guidance.",
+            "descriptionReversed": "Past challenges might have involved feeling isolated or neglecting self-reflection."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Your current path emphasizes solitude for wisdom and inner guidance.",
+            "descriptionReversed": "Potential current challenges with feeling cut off or ignoring inner truths."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future will be a time for reflection, seeking wisdom, and embracing inner guidance.",
+            "descriptionReversed": "Future risks might involve feeling isolated or disregarding self-reflection."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Spend time in solitude, listen to your inner voice, and trust your intuition.",
+            "descriptionReversed": "Reconsider any avoidance of introspection or feelings of isolation."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "External situations will prompt introspection and seeking deeper truths.",
+            "descriptionReversed": "Outside influences may cause feelings of isolation or challenge inner wisdom."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Your hopes are to find inner guidance and wisdom, while fears may involve feeling isolated.",
+            "descriptionReversed": "Concerns about missing inner guidance or feeling detached."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Following inner guidance and introspection will lead to enlightenment and clarity.",
+            "descriptionReversed": "Potential outcomes of feeling isolated or neglecting inner wisdom."
+          }
+        ]
+      },
+      {
+        "name": "Wheel of Fortune",
+        "id": 10,
+        "image": "/assets/card_images/wheel-of-fortune.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today, embrace the cycles and changes. Luck and destiny are at play.",
+            "descriptionReversed": "Potential challenges with accepting change or experiencing bad luck."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "Your journey is intertwined with destiny, cycles, and serendipity.",
+            "descriptionReversed": "Facing resistance to change or the natural cycles of life."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Past events were influenced by fate, cycles, or unexpected twists.",
+            "descriptionReversed": "Past challenges may have involved unlucky circumstances or resistance to change."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Current situations are shaped by destiny, chance, and the natural flow of life.",
+            "descriptionReversed": "Present challenges with adapting to changes or facing unfavorable odds."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future holds cycles of change, fate, and potentially lucky turns.",
+            "descriptionReversed": "Upcoming challenges with accepting the ebbs and flows of life."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Embrace the cycles of life and trust in the universe's timing.",
+            "descriptionReversed": "Reassess any resistance to change or reliance on sheer luck."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "Outside factors emphasize serendipity, fate, and the cyclical nature of events.",
+            "descriptionReversed": "External forces may bring about feelings of bad luck or stagnation."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Hopes are tied to favorable turns of events, while fears revolve around unforeseen setbacks.",
+            "descriptionReversed": "Concerns about negative twists of fate or feeling stuck in a cycle."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "The culmination of events emphasizes destiny, cycles, and possible serendipitous moments.",
+            "descriptionReversed": "Outcomes of potential stagnation or unfavorable turns."
+          }
+        ]
+      },
+      {
+        "name": "Justice",
+        "id": 11,
+        "image": "/assets/card_images/justice.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today, seek balance, fairness, and truth. Decisions made will have long-term consequences.",
+            "descriptionReversed": "Challenges with bias, injustice, or avoiding responsibility."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "Your path is governed by balance, truth, and ethical action.",
+            "descriptionReversed": "Potential difficulties with prejudice, imbalance, or unfairness."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Past events were shaped by decisions made with balance, fairness, and accountability.",
+            "descriptionReversed": "Past imbalances, prejudices, or avoidance of responsibility influenced outcomes."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Presently, a focus on balance, fairness, and making just decisions is essential.",
+            "descriptionReversed": "Current challenges with being unbiased, just, or avoiding responsibility."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "Future scenarios will require balanced judgments, truth, and seeking justice.",
+            "descriptionReversed": "Upcoming challenges with unfairness or avoiding ethical action."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Strive for equilibrium, fairness, and honesty in actions and decisions.",
+            "descriptionReversed": "Re-evaluate any tendencies towards prejudice or imbalance."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "External forces highlight the importance of balance, truth, and justice.",
+            "descriptionReversed": "Outside influences may challenge your sense of fairness or ethical judgment."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Hopes center on achieving balance and fairness, fears may involve unjust outcomes.",
+            "descriptionReversed": "Worries about facing prejudice, imbalance, or avoiding responsibility."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Outcomes emphasize the importance of balanced decisions, truth, and justice.",
+            "descriptionReversed": "Potential resolutions that involve bias, imbalance, or unfairness."
+          }
+        ]
+      },
+      {
+        "name": "The Hanged Man",
+        "id": 12,
+        "image": "/assets/card_images/the-hanged-man.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today, consider a change in perspective or a sacrifice for greater understanding.",
+            "descriptionReversed": "Potential challenges with stagnation or fear of letting go."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "Your journey necessitates seeing things from a new angle and possibly making sacrifices.",
+            "descriptionReversed": "Facing difficulties in changing perspectives or unwillingness to let go."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Past events required a shift in viewpoint or a sacrifice for a greater purpose.",
+            "descriptionReversed": "Previous challenges may have stemmed from stagnation or a refusal to release."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "In the present, gaining new insights or making certain sacrifices is essential.",
+            "descriptionReversed": "Current difficulties arise from a fixed mindset or fear of surrendering."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future may demand a fresh outlook or sacrifices for the larger good.",
+            "descriptionReversed": "Potential future challenges with rigidity or inability to relinquish."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Encourage a change in perspective and be open to necessary sacrifices.",
+            "descriptionReversed": "Re-examine any resistance to change or fears of surrender."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "External events will nudge you towards new viewpoints or necessitate sacrifices.",
+            "descriptionReversed": "Outside pressures might emphasize stagnation or a struggle to let go."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Hopes involve gaining deeper insights, while fears may center on feeling stuck.",
+            "descriptionReversed": "Worries about a rigid mindset or the consequences of not letting go."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Outcomes stress the importance of new perspectives and potential sacrifices.",
+            "descriptionReversed": "Resolutions may involve feelings of being trapped or challenges in surrendering."
+          }
+        ]
+      },
+      {
+        "name": "Death",
+        "id": 13,
+        "image": "/assets/card_images/death.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today signifies transformation, endings, and new beginnings. Embrace change.",
+            "descriptionReversed": "Challenges with resisting change or fear of letting go of the past."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "Your path is marked by significant transformations, shedding the old, and starting anew.",
+            "descriptionReversed": "Difficulties with letting go or resisting necessary changes."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Past events involved significant endings and the dawn of new beginnings.",
+            "descriptionReversed": "Previous challenges stemmed from an inability to move on or resisting transformation."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Currently, change is in the air, signifying the end of a phase and the start of another.",
+            "descriptionReversed": "Present challenges with accepting endings or fearing new beginnings."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future heralds transformative events and the need to move forward.",
+            "descriptionReversed": "Potential future challenges with letting go or resisting change."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Encourage letting go of the past and embracing the new phases of life.",
+            "descriptionReversed": "Reassess any attachment to the past or fears of forthcoming changes."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "Outside influences emphasize transformation, endings, and fresh starts.",
+            "descriptionReversed": "External events may stress a struggle with change or an attachment to the past."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Hopes center on positive transformations, while fears might involve clinging to the old.",
+            "descriptionReversed": "Concerns about resisting change or not embracing new beginnings."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Outcomes highlight the significance of change, endings, and new phases.",
+            "descriptionReversed": "Potential resolutions involving challenges with transformation or clinging to the past."
+          }
+        ]
+      },
+      {
+        "name": "Temperance",
+        "id": 14,
+        "image": "/assets/card_images/temperance.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today calls for balance, moderation, and harmonizing elements in your life. Seek middle ground.",
+            "descriptionReversed": "Potential challenges with imbalance, excesses, or conflicting energies."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "Your journey emphasizes balance, blending diverse elements, and seeking harmony.",
+            "descriptionReversed": "Facing challenges with imbalance, extremes, or lack of synergy."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Past situations required moderation, balance, and harmonizing opposing forces.",
+            "descriptionReversed": "Past challenges may have resulted from excesses or lack of harmony."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Presently, it's essential to maintain balance, integrate differing views, and find harmony.",
+            "descriptionReversed": "Current difficulties in achieving equilibrium or handling conflicts."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future will benefit from balanced actions, integrating opposites, and creating harmony.",
+            "descriptionReversed": "Upcoming challenges might involve imbalances or disharmony."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Advocate for balance, consider both sides, and aim for a harmonious path.",
+            "descriptionReversed": "Re-evaluate tendencies towards extremes or conflicting directions."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "Outside forces emphasize the need for balance, moderation, and harmony.",
+            "descriptionReversed": "External situations may bring about imbalance or conflicting energies."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Hopes revolve around achieving harmony, while fears might concern disruptions or extremes.",
+            "descriptionReversed": "Worries about imbalances, conflicts, or excessive tendencies."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Outcomes stress the significance of moderation, balance, and harmonious interactions.",
+            "descriptionReversed": "Potential resolutions involving imbalance, extremes, or discord."
+          }
+        ]
+      },
+      {
+        "name": "The Devil",
+        "id": 15,
+        "image": "/assets/card_images/the-devil.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today, be aware of temptation, bondage, or patterns that keep you from freedom. Reflect on dependencies.",
+            "descriptionReversed": "Potential for breaking chains, overcoming temptations, or liberation from restrictions."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "Your path may have themes of temptation, dependencies, or limitations that test your spirit.",
+            "descriptionReversed": "Opportunities for liberation, breaking free from bondage, and rejecting temptations lie ahead."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Past events were marked by temptations, dependencies, or feelings of being trapped.",
+            "descriptionReversed": "Previously, you might have broken free from constraints or overcome temptations."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Presently, themes of temptation, restrictions, or unhealthy patterns might be prominent.",
+            "descriptionReversed": "Currently, there's an emphasis on liberation, overcoming limitations, and resisting temptation."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future may present temptations, dependencies, or situations where you feel confined.",
+            "descriptionReversed": "Potential future themes involve breaking free, liberation, and resisting negative patterns."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "It's advised to recognize and confront dependencies and be wary of temptations.",
+            "descriptionReversed": "Consider avenues for freedom, break unhealthy patterns, and celebrate liberation."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "External influences might be pushing you towards temptations or feelings of confinement.",
+            "descriptionReversed": "Outside forces encourage breaking chains, achieving liberation, and overcoming dependencies."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Hopes are centered on breaking free, while fears might involve entrapment or temptation.",
+            "descriptionReversed": "Worries about liberation or concerns of falling back into old patterns."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Outcomes suggest a strong emphasis on recognizing and addressing temptations or bondage.",
+            "descriptionReversed": "Resolutions may highlight liberation, breaking old patterns, and overcoming restrictions."
+          }
+        ]
+      },
+      {
+        "name": "The Tower",
+        "id": 16,
+        "image": "/assets/card_images/the-tower.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today may bring unexpected upheaval or changes. Embrace the transformation and rebuild stronger.",
+            "descriptionReversed": "Avoidance of a necessary upheaval or signs of impending changes."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "Your journey involves sudden change, upheaval, or a foundational shift that transforms your path.",
+            "descriptionReversed": "You may be resisting or delaying inevitable changes that need to take place."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Past events were characterized by sudden upheavals or disruptive changes that reshaped your journey.",
+            "descriptionReversed": "Past avoidance of necessary changes or missed signs of upcoming upheavals."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Currently, you might be experiencing or on the verge of significant change or upheaval.",
+            "descriptionReversed": "Present avoidance of looming change or not heeding warning signs."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future may bring sudden changes, disruptions, or the need for foundational shifts.",
+            "descriptionReversed": "Potential future challenges in recognizing or acting upon necessary changes."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Consider preparing for unexpected shifts, embrace change, and be resilient in rebuilding.",
+            "descriptionReversed": "Re-evaluate any reluctance towards change and be alert to warning signs."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "Outside influences might prompt sudden upheavals or shifts that can be transformative.",
+            "descriptionReversed": "External situations might signal a resistance to necessary changes or upheavals."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Hopes may center on rebuilding after upheavals, while fears could involve drastic changes.",
+            "descriptionReversed": "Concerns about resisting change or apprehension about necessary upheavals."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Outcomes underscore the importance of embracing upheavals, transformations, and rebuilding stronger.",
+            "descriptionReversed": "Potential resolutions hint at delays in necessary change or overlooking important signals."
+          }
+        ]
+      },
+      {
+        "name": "The Star",
+        "id": 17,
+        "image": "/assets/card_images/the-star.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today is infused with hope, inspiration, and serenity. Seek clarity and allow yourself to dream.",
+            "descriptionReversed": "Potential feelings of disillusionment or a need to reconnect with your inner light."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "Your path is illuminated with hope, rejuvenation, and inspiration. Embrace the guiding light.",
+            "descriptionReversed": "Seek to rediscover hope and inspiration if they feel distant or clouded."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Past events were filled with moments of inspiration, clarity, and hope.",
+            "descriptionReversed": "Reflect on past times when you might've felt disconnected or in need of guidance."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Presently, embrace the influx of inspiration, hope, and clarity guiding your journey.",
+            "descriptionReversed": "Consider reconnecting with your inner light and seek rejuvenation in the present moment."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future shines with promise, inspiration, and guiding clarity.",
+            "descriptionReversed": "Upcoming challenges might involve seeking clarity, re-inspiration, or renewed hope."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Nurture your dreams, bask in hope, and let inspiration guide your actions.",
+            "descriptionReversed": "Re-evaluate potential disillusionments and rekindle your guiding light."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "Outside influences inspire hope, clarity, and a sense of rejuvenation.",
+            "descriptionReversed": "External situations may prompt a need to reconnect with your source of inspiration."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Your hopes are infused with dreams and clarity, while fears might involve loss of guidance.",
+            "descriptionReversed": "Worries may be centered on feeling adrift or disconnected from your guiding star."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Outcomes emphasize clarity, inspiration, and the rejuvenating power of hope.",
+            "descriptionReversed": "Potential resolutions could involve seeking clarity, hope, or a return to inspiration."
+          }
+        ]
+      },
+      {
+        "name": "The Moon",
+        "id": 18,
+        "image": "/assets/card_images/the-moon.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today, trust your intuition, but also be aware of illusions or deceptive situations.",
+            "descriptionReversed": "Seek clarity in confusing situations or confront any self-deception."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "Your journey is tinted with mystery, intuition, and dreams. However, be wary of illusions.",
+            "descriptionReversed": "Consider clearing the fog or addressing areas of self-deception on your path."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Past events were influenced by intuition, dreams, or perhaps confusion and illusions.",
+            "descriptionReversed": "Reflect on past moments where clarity was needed or illusions were present."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "In the present, trust your intuition, but also discern reality from illusion.",
+            "descriptionReversed": "Present situations might require clearing misconceptions or understanding hidden truths."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "Future events may be veiled in mystery, requiring intuitive insight and discernment.",
+            "descriptionReversed": "Potential future challenges in distinguishing truth from illusion or confronting deceptions."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Embrace your intuitive abilities, but also practice discernment in making decisions.",
+            "descriptionReversed": "Re-evaluate any misconceptions or seek clarity in situations that seem ambiguous."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "External influences may be shrouded in mystery or provide intuitive guidance.",
+            "descriptionReversed": "Outside situations might present confusions or illusions that need addressing."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Hopes are rooted in intuitive guidance, while fears might revolve around misconceptions.",
+            "descriptionReversed": "Concerns about being misled or not seeing the whole truth in a situation."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Outcomes highlight the importance of intuition, discernment, and understanding mysteries.",
+            "descriptionReversed": "Resolutions may involve clearing confusions, confronting deceptions, or seeking truth."
+          }
+        ]
+      },
+      {
+        "name": "The Sun",
+        "id": 19,
+        "image": "/assets/card_images/the-sun.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today is filled with vitality, joy, and clarity. Celebrate your achievements and bask in positivity.",
+            "descriptionReversed": "There might be a minor setback, but the overall energy remains positive and uplifting."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "Your path is illuminated with success, clarity, and joy. Embrace the warmth and positivity.",
+            "descriptionReversed": "Reconnect with the positive aspects of your journey, even if there are slight clouds on the horizon."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Past events radiated positivity, achievements, and clear insights.",
+            "descriptionReversed": "Reflect on past situations where the brightness was perhaps dimmed momentarily."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Currently, your journey is characterized by happiness, success, and clear vision.",
+            "descriptionReversed": "Seek out the positive and radiant energy in the present, even amidst slight challenges."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future shines brightly with promise, success, and clear insights.",
+            "descriptionReversed": "Upcoming events might require you to seek out the bright side or realign with your vision."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Let your actions radiate positivity, aim for clarity, and celebrate your achievements.",
+            "descriptionReversed": "Re-evaluate any hesitations and move towards the bright and positive side of situations."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "External influences are providing clarity, joy, and a burst of energy.",
+            "descriptionReversed": "Outside situations might hint at the need to seek clarity or to embrace positivity."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Hopes are high, focused on success and joy, while any fears are minor in comparison.",
+            "descriptionReversed": "Slight concerns about achieving clarity or ensuring the brightness of a situation."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Outcomes resonate with success, clarity, and immense positivity.",
+            "descriptionReversed": "Resolutions might revolve around seeking clarity or focusing on the radiant aspects of life."
+          }
+        ]
+      },
+      {
+        "name": "Judgment",
+        "id": 20,
+        "image": "/assets/card_images/judgment.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today is a time for reflection, rebirth, and personal revelations. Embrace transformation and heed the call.",
+            "descriptionReversed": "You may face hesitations in acknowledging the call to change or in evaluating past actions."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "You're at a pivotal point of rebirth, understanding, and enlightenment. Answer the inner call.",
+            "descriptionReversed": "Consider the areas of life you might be avoiding or the calls you're hesitant to answer."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Past experiences have led to important realizations and calls to transformation.",
+            "descriptionReversed": "Reflect on past hesitations or missed calls to transformative actions."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "Currently, it's a time of understanding, evaluation, and potential rebirth in your journey.",
+            "descriptionReversed": "Acknowledge any current hesitations or challenges in embracing transformative revelations."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future brings a powerful call to transformation, understanding, and personal revelations.",
+            "descriptionReversed": "Upcoming challenges may involve heeding transformative calls or evaluating past actions."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Acknowledge the transformative energies at play, evaluate your past, and move forward with understanding.",
+            "descriptionReversed": "Re-evaluate hesitations or actions that hinder your transformative journey."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "Outside influences are urging you towards a rebirth or important realizations.",
+            "descriptionReversed": "External factors may be challenging your transformation or introspective evaluation."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Your hopes are set on rebirth, clarity, and understanding, while fears might surround missed revelations.",
+            "descriptionReversed": "Concerns might arise from hesitations to transform or from not heeding important calls."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "The outcome promises realization, rebirth, and heeding the transformative call.",
+            "descriptionReversed": "Conclusions might involve evaluating missed opportunities or hesitations in transformation."
+          }
+        ]
+      },
+      {
+        "name": "The World",
+        "id": 21,
+        "image": "/assets/card_images/the-world.jpg",
+        "descriptions": [
+          {
+            "layoutName": "Card of the Day",
+            "position": 1,
+            "descriptionUpright": "Today marks a significant achievement, completion, or a sense of wholeness. Celebrate your journey.",
+            "descriptionReversed": "You may feel close to achieving something but might be facing some final loose ends or barriers."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 1,
+            "descriptionUpright": "You are experiencing a phase of accomplishment, harmony, and the universe's embrace. Relish this moment of unity.",
+            "descriptionReversed": "There may be a slight delay in achieving full completion or harmony. Seek what's left to integrate."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 2,
+            "descriptionUpright": "Past achievements, celebrations, and moments of unity have set the foundation for your current path.",
+            "descriptionReversed": "Reflect on past situations where completion was near, but something remained unresolved."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 3,
+            "descriptionUpright": "In the present, you are embracing unity, celebrating achievements, and feeling harmonious connections.",
+            "descriptionReversed": "Consider any current barriers to feeling complete or harmonious in your journey."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 4,
+            "descriptionUpright": "The future promises fulfillment, celebrations, and a profound sense of unity with your surroundings.",
+            "descriptionReversed": "Potential future challenges may involve tying up loose ends or achieving full harmony."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 5,
+            "descriptionUpright": "Strive for unity in actions, seek closure where needed, and celebrate the harmony achieved.",
+            "descriptionReversed": "Re-evaluate any barriers to completion and work towards embracing a harmonious flow."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 6,
+            "descriptionUpright": "External influences celebrate your accomplishments and urge for unity and harmony.",
+            "descriptionReversed": "Outside situations may hint at the need to achieve a more harmonious balance or closure."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 7,
+            "descriptionUpright": "Your hopes gravitate towards ultimate completion and unity, while fears might involve unfinished tasks.",
+            "descriptionReversed": "Concerns about achieving full harmony or about lingering unfinished matters."
+          },
+          {
+            "layoutName": "Spiritual Guidance",
+            "position": 8,
+            "descriptionUpright": "Outcomes are characterized by achievements, celebrations, and a deep connection with the universe.",
+            "descriptionReversed": "Resolutions may involve seeking closure or understanding barriers to full harmony."
+          }
+        ]
+      },
       
-        {
-          "name": "The Magician",
-          "id": 1,
-          "image": "/assets/card_images/the-magician.jpg",
-          "descriptions": [
-            {"layoutName": "Card of the Day", "position": 1, "descriptionUpright": "", "descriptionReversed": ""},
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Magician Upright in Position 1", "descriptionReversed": "Description for The Magician Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Magician Upright in Position 2", "descriptionReversed": "Description for The Magician Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Magician Upright in Position 3", "descriptionReversed": "Description for The Magician Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Magician Upright in Position 4", "descriptionReversed": "Description for The Magician Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Magician Upright in Position 5", "descriptionReversed": "Description for The Magician Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Magician Upright in Position 6", "descriptionReversed": "Description for The Magician Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Magician Upright in Position 7", "descriptionReversed": "Description for The Magician Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Magician Upright in Position 8", "descriptionReversed": "Description for The Magician Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "The High Priestess",
-          "id": 2,
-          "image": "/assets/card_images/the-high-priestess.jpg",
-          "descriptions": [
-            {"layoutName": "Card of the Day", "position": 1, "descriptionUpright": "", "descriptionReversed": ""},
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The High Priestess Upright in Position 1", "descriptionReversed": "Description for The High Priestess Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The High Priestess Upright in Position 2", "descriptionReversed": "Description for The High Priestess Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The High Priestess Upright in Position 3", "descriptionReversed": "Description for The High Priestess Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The High Priestess Upright in Position 4", "descriptionReversed": "Description for The High Priestess Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The High Priestess Upright in Position 5", "descriptionReversed": "Description for The High Priestess Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The High Priestess Upright in Position 6", "descriptionReversed": "Description for The High Priestess Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The High Priestess Upright in Position 7", "descriptionReversed": "Description for The High Priestess Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The High Priestess Upright in Position 8", "descriptionReversed": "Description for The High Priestess Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "The Empress",
-          "id": 3,
-          "image": "/assets/card_images/the-empress.jpg",
-          "descriptions": [
-            {"layoutName": "Card of the Day", "position": 1, "descriptionUpright": "", "descriptionReversed": ""},
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Empress Upright in Position 1", "descriptionReversed": "Description for The Empress Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Empress Upright in Position 2", "descriptionReversed": "Description for The Empress Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Empress Upright in Position 3", "descriptionReversed": "Description for The Empress Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Empress Upright in Position 4", "descriptionReversed": "Description for The Empress Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Empress Upright in Position 5", "descriptionReversed": "Description for The Empress Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Empress Upright in Position 6", "descriptionReversed": "Description for The Empress Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Empress Upright in Position 7", "descriptionReversed": "Description for The Empress Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Empress Upright in Position 8", "descriptionReversed": "Description for The Empress Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "The Emperor",
-          "id": 4,
-          "image": "/assets/card_images/the-emperor.jpg",
-          "descriptions": [
-            {"layoutName": "Card of the Day", "position": 1, "descriptionUpright": "", "descriptionReversed": ""},
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Emperor Upright in Position 1", "descriptionReversed": "Description for The Emperor Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Emperor Upright in Position 2", "descriptionReversed": "Description for The Emperor Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Emperor Upright in Position 3", "descriptionReversed": "Description for The Emperor Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Emperor Upright in Position 4", "descriptionReversed": "Description for The Emperor Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Emperor Upright in Position 5", "descriptionReversed": "Description for The Emperor Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Emperor Upright in Position 6", "descriptionReversed": "Description for The Emperor Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Emperor Upright in Position 7", "descriptionReversed": "Description for The Emperor Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Emperor Upright in Position 8", "descriptionReversed": "Description for The Emperor Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "The Hierophant",
-          "id": 5,
-          "image": "/assets/card_images/the-hierophant.jpg",
-          "descriptions": [
-            {"layoutName": "Card of the Day", "position": 1, "descriptionUpright": "", "descriptionReversed": ""},
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Hierophant Upright in Position 1", "descriptionReversed": "Description for The Hierophant Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Hierophant Upright in Position 2", "descriptionReversed": "Description for The Hierophant Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Hierophant Upright in Position 3", "descriptionReversed": "Description for The Hierophant Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Hierophant Upright in Position 4", "descriptionReversed": "Description for The Hierophant Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Hierophant Upright in Position 5", "descriptionReversed": "Description for The Hierophant Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Hierophant Upright in Position 6", "descriptionReversed": "Description for The Hierophant Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Hierophant Upright in Position 7", "descriptionReversed": "Description for The Hierophant Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Hierophant Upright in Position 8", "descriptionReversed": "Description for The Hierophant Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "The Lovers",
-          "id": 6,
-          "image": "/assets/card_images/the-lovers.jpg",
-          "descriptions": [
-            {"layoutName": "Card of the Day", "position": 1, "descriptionUpright": "", "descriptionReversed": ""},
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Lovers Upright in Position 1", "descriptionReversed": "Description for The Lovers Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Lovers Upright in Position 2", "descriptionReversed": "Description for The Lovers Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Lovers Upright in Position 3", "descriptionReversed": "Description for The Lovers Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Lovers Upright in Position 4", "descriptionReversed": "Description for The Lovers Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Lovers Upright in Position 5", "descriptionReversed": "Description for The Lovers Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Lovers Upright in Position 6", "descriptionReversed": "Description for The Lovers Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Lovers Upright in Position 7", "descriptionReversed": "Description for The Lovers Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Lovers Upright in Position 8", "descriptionReversed": "Description for The Lovers Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "The Chariot",
-          "id": 7,
-          "image": "/assets/card_images/the-chariot.jpg",
-          "descriptions": [
-            {"layoutName": "Card of the Day", "position": 1, "descriptionUpright": "", "descriptionReversed": ""},
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Chariot Upright in Position 1", "descriptionReversed": "Description for The Chariot Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Chariot Upright in Position 2", "descriptionReversed": "Description for The Chariot Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Chariot Upright in Position 3", "descriptionReversed": "Description for The Chariot Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Chariot Upright in Position 4", "descriptionReversed": "Description for The Chariot Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Chariot Upright in Position 5", "descriptionReversed": "Description for The Chariot Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Chariot Upright in Position 6", "descriptionReversed": "Description for The Chariot Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Chariot Upright in Position 7", "descriptionReversed": "Description for The Chariot Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Chariot Upright in Position 8", "descriptionReversed": "Description for The Chariot Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "Strength",
-          "id": 8,
-          "image": "/assets/card_images/strength.jpg",
-          "descriptions": [
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for Strength Upright in Position 1", "descriptionReversed": "Description for Strength Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for Strength Upright in Position 2", "descriptionReversed": "Description for Strength Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for Strength Upright in Position 3", "descriptionReversed": "Description for Strength Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for Strength Upright in Position 4", "descriptionReversed": "Description for Strength Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for Strength Upright in Position 5", "descriptionReversed": "Description for Strength Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for Strength Upright in Position 6", "descriptionReversed": "Description for Strength Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for Strength Upright in Position 7", "descriptionReversed": "Description for Strength Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for Strength Upright in Position 8", "descriptionReversed": "Description for Strength Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "The Hermit",
-          "id": 9,
-          "image": "/assets/card_images/the-hermit.jpg",
-          "descriptions": [
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Hermit Upright in Position 1", "descriptionReversed": "Description for The Hermit Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Hermit Upright in Position 2", "descriptionReversed": "Description for The Hermit Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Hermit Upright in Position 3", "descriptionReversed": "Description for The Hermit Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Hermit Upright in Position 4", "descriptionReversed": "Description for The Hermit Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Hermit Upright in Position 5", "descriptionReversed": "Description for The Hermit Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Hermit Upright in Position 6", "descriptionReversed": "Description for The Hermit Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Hermit Upright in Position 7", "descriptionReversed": "Description for The Hermit Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Hermit Upright in Position 8", "descriptionReversed": "Description for The Hermit Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "Wheel of Fortune",
-          "id": 10,
-          "image": "/assets/card_images/wheel-of-fortune.jpg",
-          "descriptions": [
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for Wheel of Fortune Upright in Position 1", "descriptionReversed": "Description for Wheel of Fortune Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for Wheel of Fortune Upright in Position 2", "descriptionReversed": "Description for Wheel of Fortune Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for Wheel of Fortune Upright in Position 3", "descriptionReversed": "Description for Wheel of Fortune Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for Wheel of Fortune Upright in Position 4", "descriptionReversed": "Description for Wheel of Fortune Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for Wheel of Fortune Upright in Position 5", "descriptionReversed": "Description for Wheel of Fortune Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for Wheel of Fortune Upright in Position 6", "descriptionReversed": "Description for Wheel of Fortune Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for Wheel of Fortune Upright in Position 7", "descriptionReversed": "Description for Wheel of Fortune Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for Wheel of Fortune Upright in Position 8", "descriptionReversed": "Description for Wheel of Fortune Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "Justice",
-          "id": 11,
-          "image": "/assets/card_images/justice.jpg",
-          "descriptions": [
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for Justice Upright in Position 1", "descriptionReversed": "Description for Justice Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for Justice Upright in Position 2", "descriptionReversed": "Description for Justice Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for Justice Upright in Position 3", "descriptionReversed": "Description for Justice Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for Justice Upright in Position 4", "descriptionReversed": "Description for Justice Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for Justice Upright in Position 5", "descriptionReversed": "Description for Justice Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for Justice Upright in Position 6", "descriptionReversed": "Description for Justice Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for Justice Upright in Position 7", "descriptionReversed": "Description for Justice Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for Justice Upright in Position 8", "descriptionReversed": "Description for Justice Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "The Hanged Man",
-          "id": 12,
-          "image": "/assets/card_images/the-hanged-man.jpg",
-          "descriptions": [
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Hanged Man Upright in Position 1", "descriptionReversed": "Description for The Hanged Man Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Hanged Man Upright in Position 2", "descriptionReversed": "Description for The Hanged Man Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Hanged Man Upright in Position 3", "descriptionReversed": "Description for The Hanged Man Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Hanged Man Upright in Position 4", "descriptionReversed": "Description for The Hanged Man Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Hanged Man Upright in Position 5", "descriptionReversed": "Description for The Hanged Man Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Hanged Man Upright in Position 6", "descriptionReversed": "Description for The Hanged Man Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Hanged Man Upright in Position 7", "descriptionReversed": "Description for The Hanged Man Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Hanged Man Upright in Position 8", "descriptionReversed": "Description for The Hanged Man Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "Death",
-          "id": 13,
-          "image": "/assets/card_images/death.jpg",
-          "descriptions": [
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for Death Upright in Position 1", "descriptionReversed": "Description for Death Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for Death Upright in Position 2", "descriptionReversed": "Description for Death Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for Death Upright in Position 3", "descriptionReversed": "Description for Death Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for Death Upright in Position 4", "descriptionReversed": "Description for Death Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for Death Upright in Position 5", "descriptionReversed": "Description for Death Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for Death Upright in Position 6", "descriptionReversed": "Description for Death Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for Death Upright in Position 7", "descriptionReversed": "Description for Death Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for Death Upright in Position 8", "descriptionReversed": "Description for Death Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "Temperance",
-          "id": 14,
-          "image": "/assets/card_images/temperance.jpg",
-          "descriptions": [
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for Temperance Upright in Position 1", "descriptionReversed": "Description for Temperance Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for Temperance Upright in Position 2", "descriptionReversed": "Description for Temperance Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for Temperance Upright in Position 3", "descriptionReversed": "Description for Temperance Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for Temperance Upright in Position 4", "descriptionReversed": "Description for Temperance Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for Temperance Upright in Position 5", "descriptionReversed": "Description for Temperance Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for Temperance Upright in Position 6", "descriptionReversed": "Description for Temperance Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for Temperance Upright in Position 7", "descriptionReversed": "Description for Temperance Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for Temperance Upright in Position 8", "descriptionReversed": "Description for Temperance Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "The Devil",
-          "id": 15,
-          "image": "/assets/card_images/the-devil.jpg",
-          "descriptions": [
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Devil Upright in Position 1", "descriptionReversed": "Description for The Devil Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Devil Upright in Position 2", "descriptionReversed": "Description for The Devil Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Devil Upright in Position 3", "descriptionReversed": "Description for The Devil Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Devil Upright in Position 4", "descriptionReversed": "Description for The Devil Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Devil Upright in Position 5", "descriptionReversed": "Description for The Devil Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Devil Upright in Position 6", "descriptionReversed": "Description for The Devil Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Devil Upright in Position 7", "descriptionReversed": "Description for The Devil Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Devil Upright in Position 8", "descriptionReversed": "Description for The Devil Reversed in Position 8"}
-          ]
-        },
-
-        {
-          "name": "The Tower",
-          "id": 16,
-          "image": "/assets/card_images/the-tower.jpg",
-          "descriptions": [
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Tower Upright in Position 1", "descriptionReversed": "Description for The Tower Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Tower Upright in Position 2", "descriptionReversed": "Description for The Tower Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Tower Upright in Position 3", "descriptionReversed": "Description for The Tower Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Tower Upright in Position 4", "descriptionReversed": "Description for The Tower Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Tower Upright in Position 5", "descriptionReversed": "Description for The Tower Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Tower Upright in Position 6", "descriptionReversed": "Description for The Tower Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Tower Upright in Position 7", "descriptionReversed": "Description for The Tower Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Tower Upright in Position 8", "descriptionReversed": "Description for The Tower Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "The Star",
-          "id": 17,
-          "image": "/assets/card_images/the-star.jpg",
-          "descriptions": [
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Star Upright in Position 1", "descriptionReversed": "Description for The Star Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Star Upright in Position 2", "descriptionReversed": "Description for The Star Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Star Upright in Position 3", "descriptionReversed": "Description for The Star Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Star Upright in Position 4", "descriptionReversed": "Description for The Star Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Star Upright in Position 5", "descriptionReversed": "Description for The Star Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Star Upright in Position 6", "descriptionReversed": "Description for The Star Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Star Upright in Position 7", "descriptionReversed": "Description for The Star Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Star Upright in Position 8", "descriptionReversed": "Description for The Star Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "The Moon",
-          "id": 18,
-          "image": "/assets/card_images/the-moon.jpg",
-          "descriptions": [
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Moon Upright in Position 1", "descriptionReversed": "Description for The Moon Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Moon Upright in Position 2", "descriptionReversed": "Description for The Moon Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Moon Upright in Position 3", "descriptionReversed": "Description for The Moon Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Moon Upright in Position 4", "descriptionReversed": "Description for The Moon Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Moon Upright in Position 5", "descriptionReversed": "Description for The Moon Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Moon Upright in Position 6", "descriptionReversed": "Description for The Moon Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Moon Upright in Position 7", "descriptionReversed": "Description for The Moon Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Moon Upright in Position 8", "descriptionReversed": "Description for The Moon Reversed in Position 8"}
-          ]
-        },
-
-        {
-          "name": "The Sun",
-          "id": 19,
-          "image": "/assets/card_images/the-sun.jpg",
-          "descriptions": [
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The Sun Upright in Position 1", "descriptionReversed": "Description for The Sun Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The Sun Upright in Position 2", "descriptionReversed": "Description for The Sun Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The Sun Upright in Position 3", "descriptionReversed": "Description for The Sun Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The Sun Upright in Position 4", "descriptionReversed": "Description for The Sun Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The Sun Upright in Position 5", "descriptionReversed": "Description for The Sun Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The Sun Upright in Position 6", "descriptionReversed": "Description for The Sun Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The Sun Upright in Position 7", "descriptionReversed": "Description for The Sun Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The Sun Upright in Position 8", "descriptionReversed": "Description for The Sun Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "Judgement",
-          "id": 20,
-          "image": "/assets/card_images/judgement.jpg",
-          "descriptions": [
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for Judgement Upright in Position 1", "descriptionReversed": "Description for Judgement Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for Judgement Upright in Position 2", "descriptionReversed": "Description for Judgement Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for Judgement Upright in Position 3", "descriptionReversed": "Description for Judgement Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for Judgement Upright in Position 4", "descriptionReversed": "Description for Judgement Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for Judgement Upright in Position 5", "descriptionReversed": "Description for Judgement Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for Judgement Upright in Position 6", "descriptionReversed": "Description for Judgement Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for Judgement Upright in Position 7", "descriptionReversed": "Description for Judgement Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for Judgement Upright in Position 8", "descriptionReversed": "Description for Judgement Reversed in Position 8"}
-          ]
-        },
-        {
-          "name": "The World",
-          "id": 21,
-          "image": "/assets/card_images/the-world.jpg",
-          "descriptions": [
-            {"layoutName": "Spiritual Guidance", "position": 1, "descriptionUpright": "Description for The World Upright in Position 1", "descriptionReversed": "Description for The World Reversed in Position 1"},
-            {"layoutName": "Spiritual Guidance", "position": 2, "descriptionUpright": "Description for The World Upright in Position 2", "descriptionReversed": "Description for The World Reversed in Position 2"},
-            {"layoutName": "Spiritual Guidance", "position": 3, "descriptionUpright": "Description for The World Upright in Position 3", "descriptionReversed": "Description for The World Reversed in Position 3"},
-            {"layoutName": "Spiritual Guidance", "position": 4, "descriptionUpright": "Description for The World Upright in Position 4", "descriptionReversed": "Description for The World Reversed in Position 4"},
-            {"layoutName": "Spiritual Guidance", "position": 5, "descriptionUpright": "Description for The World Upright in Position 5", "descriptionReversed": "Description for The World Reversed in Position 5"},
-            {"layoutName": "Spiritual Guidance", "position": 6, "descriptionUpright": "Description for The World Upright in Position 6", "descriptionReversed": "Description for The World Reversed in Position 6"},
-            {"layoutName": "Spiritual Guidance", "position": 7, "descriptionUpright": "Description for The World Upright in Position 7", "descriptionReversed": "Description for The World Reversed in Position 7"},
-            {"layoutName": "Spiritual Guidance", "position": 8, "descriptionUpright": "Description for The World Upright in Position 8", "descriptionReversed": "Description for The World Reversed in Position 8"}
-          ]
-        }
       ]
     
   }
